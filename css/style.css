@@ -4035,8 +4035,9 @@ ul {
   width: 100%;
 }
 .client-reviews-area .client-reviews-right {
-  padding: 55px 0 70px;
+  padding: 55px 0 70px 0;
   margin-left: 65px;
+  background-color: #b01403;
 }
 @media (min-width: 768px) and (max-width: 1199px) {
   .client-reviews-area .client-reviews-right {
